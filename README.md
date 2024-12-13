@@ -1,2 +1,2 @@
 # GermanLearning
-To make a website to help learn German to be paired with Duolingo and Google Translate
+Welcome! The link to the site and explanation are: https://jimbobjoe36.github.io/GermanLearning/
