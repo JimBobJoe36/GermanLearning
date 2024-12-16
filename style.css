@@ -2,9 +2,10 @@
     text-align: center;
 }
 body{
-    background-color: #ffd950;
+    background-color: #ff0000;
+    color: #ffffff
 }
 .button{
-    background-color: #ff000084;
-    color: #ffffffa9;
+    background-color: #ffd950;
+    color: #ffffff;
 }
